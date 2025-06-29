@@ -9,6 +9,5 @@ sketch = cv2.divide(gray, inverted_blur, scale=256.0)
 cv2.imshow("Sketch", sketch)
 cv2.imshow("img", img)
 
-#cv2.imwrite("sketch.jpg", sketch)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
