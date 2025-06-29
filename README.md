@@ -1,2 +1,15 @@
-# Image-and-real-time-video-to-Pencil-Sketch
- Pencil Sketch Converter (Image &amp; Video) – OpenCV Convert images and live webcam/video feed into pencil sketch effects using OpenCV. A lightweight and beginner-friendly project to explore image processing techniques.   
+# 🖌️ Pencil Sketch Converter (Image & Video) – OpenCV
+
+Convert images and live webcam feed into pencil sketch effects using OpenCV.  
+This project is a great way to learn basic image processing techniques with Python.
+
+---
+
+## 🔧 Features
+
+- 🎨 Convert static images to pencil sketch
+- 🎥 Apply real-time pencil sketch filter to webcam video
+- 🧠 Uses grayscale, inversion, Gaussian blur, and image blending
+- 💡 Beginner-friendly and easy to modify
+
+---
