@@ -9,7 +9,7 @@ This project is a great way to learn basic image processing techniques with Pyth
 
 - 🎨 Convert static images to pencil sketch
 - 🎥 Apply real-time pencil sketch filter to webcam video
-- 🧠 Uses grayscale, inversion, Gaussian blur, and image blending
+- 🧠 Uses grayscale, inversion, Gaussian blur
 - 💡 Beginner-friendly and easy to modify
 
 ---
